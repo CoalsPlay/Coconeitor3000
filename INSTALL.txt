@@ -1,0 +1,12 @@
+Breve explicación de como instalarlo fácilmente en tu alojamiento si no tienes conocimientos previo.
+
+1- Subir la base de datos en la carpeta /DB/ a tu servidor de base de datos.
+
+2- En el archivo llamado .env el cual se encuentra en la raíz del proyecto, configurar los datos de tu servidor de base de datos.
+
+3- En /app/Config/App.php poner la URL de tu proyecto.
+
+4- En /app/Config/Database.php poner los datos de tu servidor de bases de datos.
+
+Siguiendo estos sencillos pasos ya podrás disfrutar de la aplicación en tu servidor web.
+
